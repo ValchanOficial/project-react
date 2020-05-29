@@ -1,2 +1,9 @@
-# project-react
-Rocketseat - Projeto ReactJS - GitHub Explorer
+# Rocketseat - Projeto ReactJS - GitHub Explorer
+
+
+## Start
+
+```js
+  yarn install
+  yarn start
+```
